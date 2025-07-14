@@ -40,7 +40,7 @@ nav {
   align-items: center;
   height: 90px; /* Adjusted height for better visual balance */
   background: linear-gradient(to right, #ffffff, #ffffff); /* Gradient background */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for floating effect */
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  */
   padding: 0 2rem;
   z-index: 1000;
   transition: all 0.3s ease-in-out;
@@ -184,8 +184,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 200px;
+  width: 200px;
   margin: auto 0;
 }
 
